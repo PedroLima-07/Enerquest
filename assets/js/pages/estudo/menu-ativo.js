@@ -56,7 +56,7 @@ const paginas = {
   
   <div class="divisao"> 
   <div class="foto">
-      <img src="/UPX-III/assets/img/Solar.jpg" alt="Funcionamento da energia solar">
+      <img src="/Enerquest/assets/img/Solar.jpg" alt="Funcionamento da energia solar">
     </div>
 
     <div class="texto">
@@ -177,7 +177,7 @@ const paginas = {
       </div>
 
       <div class="bloco-imagem-legenda">
-        <img src="/UPX-III/assets/img/Canal-Solar-Ceara-recebe-novo-aporte-para-expansao-de-parques-solares.webp" alt="Parque Solar no Nordeste">
+        <img src="/Enerquest/assets/img/Canal-Solar-Ceara-recebe-novo-aporte-para-expansao-de-parques-solares.webp" alt="Parque Solar no Nordeste">
         <span class="legenda">Complexos solares no semiárido aproveitam a alta incidência de raios UV e baixa nebulosidade.</span>
       </div>
 
@@ -280,7 +280,7 @@ const paginas = {
   
   <div class="divisao"> 
   <div class="foto">
-      <img src="/UPX-III/assets/img/Turbina eolica.jpg" alt="Turbina Eolica">
+      <img src="/Enerquest/assets/img/Turbina eolica.jpg" alt="Turbina Eolica">
     </div>
 
     <div class="texto">
@@ -401,7 +401,7 @@ const paginas = {
       </div>
 
       <div class="bloco-imagem-legenda">
-        <img src="/UPX-III/assets/img/Complexo-Eólico-Lagoa -dos-Ventos.jpg" alt="Parque Eólico no Nordeste">
+        <img src="/Enerquest/assets/img/Complexo-Eólico-Lagoa -dos-Ventos.jpg" alt="Parque Eólico no Nordeste">
         <span class="legenda">Parques eólicos na região Nordeste, que concentra a esmagadora maioria da produção nacional.</span>
       </div>
 
@@ -415,7 +415,7 @@ const paginas = {
 
       <div class="divisao inversa">
         <div class="foto">
-          <img src="/UPX-III/assets/img/Fronteira-eolica-offshore.jpg" alt="Projeto Eólico Offshore">
+          <img src="/Enerquest/assets/img/Fronteira-eolica-offshore.jpg" alt="Projeto Eólico Offshore">
         </div>
         <div class="texto">
           <h4 class="titulo-bloco">A Fronteira Offshore</h4>
@@ -493,7 +493,7 @@ const paginas = {
         </div>
 
         <div class="foto">
-          <img src="/UPX-III/assets/img/Usina-Hidreletrica.jpg" alt="Vista aérea de uma grande usina hidrelétrica">
+          <img src="/Enerquest/assets/img/Usina-Hidreletrica.jpg" alt="Vista aérea de uma grande usina hidrelétrica">
         </div>
 
       </div>
@@ -502,7 +502,7 @@ const paginas = {
   
   <div class="divisao"> 
   <div class="foto">
-      <img src="/UPX-III/assets/img/Como-funciona-hidreletrica.jpg" alt="Turbina e gerador interno de uma usina">
+      <img src="/Enerquest/assets/img/Como-funciona-hidreletrica.jpg" alt="Turbina e gerador interno de uma usina">
     </div>
 
     <div class="texto">
@@ -623,7 +623,7 @@ const paginas = {
       </div>
 
       <div class="bloco-imagem-legenda">
-        <img src="/UPX-III/assets/img/Barragem-itapu.jpg" alt="Vertedouro da Usina de Itaipu aberto">
+        <img src="/Enerquest/assets/img/Barragem-itapu.jpg" alt="Vertedouro da Usina de Itaipu aberto">
         <span class="legenda">Itaipu Binacional: um marco da engenharia brasileira e paraguaia e uma das maiores produtoras de energia do mundo.</span>
       </div>
 
@@ -637,7 +637,7 @@ const paginas = {
 
       <div class="divisao inversa">
         <div class="foto">
-          <img src="/UPX-III/assets/img/pequenas-centrais-hidreletricas.jpg" alt="Uma Pequena Central Hidrelétrica integrada à natureza">
+          <img src="/Enerquest/assets/img/pequenas-centrais-hidreletricas.jpg" alt="Uma Pequena Central Hidrelétrica integrada à natureza">
         </div>
         <div class="texto">
           <h4 class="titulo-bloco">O Futuro: Pequenas Centrais (PCHs)</h4>
@@ -715,7 +715,7 @@ const paginas = {
         </div>
 
         <div class="foto">
-          <img src="/UPX-III/assets/img/biomassa.png" alt="Representação da biomassa">
+          <img src="/Enerquest/assets/img/biomassa.png" alt="Representação da biomassa">
         </div>
 
       </div>
@@ -724,7 +724,7 @@ const paginas = {
   
   <div class="divisao"> 
   <div class="foto">
-      <img src="/UPX-III/assets/img/Como-funciona-biomassa.png" alt="Como funciona o processo de geração de energia a partir da biomassa">
+      <img src="/Enerquest/assets/img/Como-funciona-biomassa.png" alt="Como funciona o processo de geração de energia a partir da biomassa">
     </div>
 
     <div class="texto">
@@ -845,7 +845,7 @@ const paginas = {
       </div>
 
       <div class="bloco-imagem-legenda">
-        <img src="/UPX-III/assets/img/Plantação-de-cana.jpeg" alt="Plantação de Cana-de-açúcar">
+        <img src="/Enerquest/assets/img/Plantação-de-cana.jpeg" alt="Plantação de Cana-de-açúcar">
         <span class="legenda">A cana-de-açúcar é a grande estrela da biomassa nacional, fornecendo açúcar, etanol e eletricidade.</span>
       </div>
 
@@ -859,7 +859,7 @@ const paginas = {
 
       <div class="divisao inversa">
         <div class="foto">
-          <img src="/UPX-III/assets/img/geração-de-biogás.webp" alt="Biorreatores e infraestrutura de biogás">
+          <img src="/Enerquest/assets/img/geração-de-biogás.webp" alt="Biorreatores e infraestrutura de biogás">
         </div>
         <div class="texto">
           <h4 class="titulo-bloco">Biogás: O Luxo do Lixo</h4>
@@ -936,7 +936,7 @@ const paginas = {
         </div>
 
         <div class="foto">
-          <img src="/UPX-III/assets/img/geiser.jpg" alt="Gêiser expelindo vapor de água quente">
+          <img src="/Enerquest/assets/img/geiser.jpg" alt="Gêiser expelindo vapor de água quente">
         </div>
 
       </div>
@@ -945,7 +945,7 @@ const paginas = {
   
   <div class="divisao"> 
   <div class="foto">
-      <img src="/UPX-III/assets/img/Como-funciona-a-energia-geotermica.jpeg" alt="Tubulações de uma usina geotérmica">
+      <img src="/Enerquest/assets/img/Como-funciona-a-energia-geotermica.jpeg" alt="Tubulações de uma usina geotérmica">
     </div>
 
     <div class="texto">
@@ -1066,7 +1066,7 @@ const paginas = {
       </div>
 
       <div class="bloco-imagem-legenda">
-        <img src="/UPX-III/assets/img/Lazer.jpeg" alt="Piscinas naturais de águas termais">
+        <img src="/Enerquest/assets/img/Lazer.jpeg" alt="Piscinas naturais de águas termais">
         <span class="legenda">O uso do calor geotérmico no Brasil é voltado quase 100% para o lazer e tratamentos terapêuticos.</span>
       </div>
 
@@ -1080,7 +1080,7 @@ const paginas = {
 
       <div class="divisao inversa">
         <div class="foto">
-          <img src="/UPX-III/assets/img/Aquifero-guarani.jpg" alt="Equipamentos de perfuração geológica">
+          <img src="/Enerquest/assets/img/Aquifero-guarani.jpg" alt="Equipamentos de perfuração geológica">
         </div>
         <div class="texto">
           <h4 class="titulo-bloco">O Futuro: O Aquífero Guarani</h4>
