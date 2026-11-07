@@ -1,12 +1,12 @@
-@import url(/UPX-III/assets/css/pages/solo/quiz/partials/barra_de_progresso.css);
-@import url(/UPX-III/assets/css/pages/solo/quiz/partials/feedback.css);
-@import url(/UPX-III/assets/css/pages/solo/quiz/partials/hud_vidas.css);
-@import url(/UPX-III/assets/css/pages/solo/quiz/partials/main_layout.css);
-@import url(/UPX-III/assets/css/pages/solo/quiz/partials/perguntas_e_respostas.css);
-@import url(/UPX-III/assets/css/pages/solo/quiz/partials/tutorial.css);
-@import url(/UPX-III/assets/css/pages/solo/quiz/partials/voltar.css);
+@import url(/Enerquest/assets/css/pages/solo/quiz/partials/barra_de_progresso.css);
+@import url(/Enerquest/assets/css/pages/solo/quiz/partials/feedback.css);
+@import url(/Enerquest/assets/css/pages/solo/quiz/partials/hud_vidas.css);
+@import url(/Enerquest/assets/css/pages/solo/quiz/partials/main_layout.css);
+@import url(/Enerquest/assets/css/pages/solo/quiz/partials/perguntas_e_respostas.css);
+@import url(/Enerquest/assets/css/pages/solo/quiz/partials/tutorial.css);
+@import url(/Enerquest/assets/css/pages/solo/quiz/partials/voltar.css);
 
-@import url(/UPX-III/assets/css/global/global.css);
+@import url(/Enerquest/assets/css/global/global.css);
 
 * {
   margin: 0;
