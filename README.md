@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://pedrolima-07.github.io/UPX-III/">
+<a href="https://pedrolima-07.github.io/Enerquest/">
 <img src="https://img.shields.io/badge/▶%20JOGAR%20AGORA-FFD60A?style=for-the-badge&logoColor=000000" alt="Jogar agora"/>
 </a>
 </p>
@@ -124,7 +124,7 @@ Este modo promove interação social, competição saudável e aprendizagem cola
 
 O projeto está publicado e pode ser acessado direto pelo navegador, sem instalação:
 
-### 👉 [pedrolima-07.github.io/UPX-III](https://pedrolima-07.github.io/UPX-III/)
+### 👉 [pedrolima-07.github.io/Enerquest](https://pedrolima-07.github.io/Enerquest/)
 
 ---
 
@@ -132,10 +132,10 @@ O projeto está publicado e pode ser acessado direto pelo navegador, sem instala
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/PedroLima-07/UPX-III.git
+git clone https://github.com/PedroLima-07/Enerquest.git
 
 # 2. Entre na pasta
-cd UPX-III
+cd Enerquest
 
 # 3. Suba um servidor local (necessário para o carregamento das perguntas)
 python -m http.server 5500
